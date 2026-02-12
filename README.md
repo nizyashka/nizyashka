@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-iOS Developer with over a year of hands-on experience building mobile applications from scratch. I focus on clean architecture, maintainable code, and well-structured client-server interaction.
+iOS Developer with over a year of hands-on experience building mobile applications from scratch.
 I have practical experience designing and implementing full application lifecycles — from UI implementation to networking, persistence, and testing.
 
 ## 🚀 About Me
@@ -18,8 +18,8 @@ I have practical experience designing and implementing full application lifecycl
 Swift, Python, SQL
 
 **Frameworks & Tools:**
-UIKit, SwiftUI, Core Data, Combine
-URLSession, REST API, JSON
+UIKit, SwiftUI, Core Data, Combine, 
+URLSession, REST API, JSON, 
 Git, SPM, Postman, Figma
 
 **Storage:**
