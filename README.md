@@ -14,15 +14,18 @@ I have practical experience designing and implementing full application lifecycl
 - 🔄 Experienced with Git and structured workflows
 
 ## 🛠 Tech Stack
-*Languages:*
+**Languages:**
 Swift, Python, SQL
-*Frameworks & Tools:*
+
+**Frameworks & Tools:**
 UIKit, SwiftUI, Core Data, Combine
 URLSession, REST API, JSON
 Git, SPM, Postman, Figma
-*Storage:*
+
+**Storage:**
 Core Data, UserDefaults, SwiftKeychainWrapper
-*Testing:*
+
+**Testing:**
 Unit Tests, UI Tests, Snapshot Tests
 
 <!--
